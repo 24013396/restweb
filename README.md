@@ -428,8 +428,9 @@ body {
 ## OUTPUT:
 ![alt text](<Screenshot 2024-12-16 205028.png>)
 ![alt text](<Screenshot 2024-12-16 205113.png>)
+![alt text](<Screenshot 2024-12-16 205127.png>)
 ![alt text](<Screenshot 2024-12-16 205148.png>)
-![alt text](<Screenshot 2024-12-16 205148.png>)
+
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
