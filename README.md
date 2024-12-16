@@ -134,16 +134,23 @@ rest.html
                         </div>
         
             <div class="card">
-                <img src="" alt="">
+                <img src="milk shake.jpeg" alt="milkshake">
                 <div class="card-content">
-                    <h3></h3>
-                    <p></p>
+                    <h3>milkshake</h3>
+                    <p>oreo milkshake</p>
                     <span class="price">Rs. 120</span>
                 </div>
             </div>
         </div>
     </div>
-    
+    <footer>
+        <p>&copy; 2023 hazeed Restaurant | Designed by: <b>shaik hazeedmasthan</b></p>
+        <p>
+            <a href="#" title="Facebook">Facebook</a> |
+             |
+            <a href="#" title="Instagram">Instagram</a>
+        </p>
+    </footer>
 </body>
 </html>
 
@@ -419,12 +426,10 @@ body {
 ```
 
 ## OUTPUT:
-![alt text](<Screenshot 2024-12-15 210616.png>)
-![alt text](<Screenshot 2024-12-15 210704.png>)
-![alt text](<Screenshot 2024-12-15 210744.png>)
-![alt text](<Screenshot 2024-12-15 210835.png>)
-
-
+![alt text](<Screenshot 2024-12-16 205028.png>)
+![alt text](<Screenshot 2024-12-16 205113.png>)
+![alt text](<Screenshot 2024-12-16 205148.png>)
+![alt text](<Screenshot 2024-12-16 205148.png>)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
